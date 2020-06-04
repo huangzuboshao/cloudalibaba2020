@@ -1,0 +1,6 @@
+
+.gitignore
+.idea/
+cloudalibaba2020.iml
+*/target/
+alibaba_use.bmp
