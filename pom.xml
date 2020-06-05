@@ -11,6 +11,7 @@
         <module>cloud-api-commons</module>
         <module>cloudalibaba-provider-payment9001</module>
         <module>cloudalibaba-order-consumer83</module>
+        <module>cloudalibaba-sentinel-service8401</module>
     </modules>
 
     <packaging>pom</packaging>
